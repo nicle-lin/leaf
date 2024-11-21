@@ -2,9 +2,9 @@ package console
 
 import (
 	"fmt"
-	"github.com/salminwang/leaf/chanrpc"
-	"github.com/salminwang/leaf/conf"
-	"github.com/salminwang/leaf/log"
+	"github.com/nicle-lin/leaf/chanrpc"
+	"github.com/nicle-lin/leaf/conf"
+	"github.com/nicle-lin/leaf/log"
 	"os"
 	"path"
 	"runtime/pprof"

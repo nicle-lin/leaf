@@ -1,8 +1,8 @@
 package cluster
 
 import (
-	"github.com/salminwang/leaf/conf"
-	"github.com/salminwang/leaf/network"
+	"github.com/nicle-lin/leaf/conf"
+	"github.com/nicle-lin/leaf/network"
 	"math"
 	"time"
 )

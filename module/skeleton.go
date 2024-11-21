@@ -1,10 +1,9 @@
 package module
 
 import (
-	"github.com/salminwang/leaf/chanrpc"
-	"github.com/salminwang/leaf/console"
-	"github.com/salminwang/leaf/go"
-	"github.com/salminwang/leaf/timer"
+	"github.com/nicle-lin/leaf/chanrpc"
+	"github.com/nicle-lin/leaf/console"
+	"github.com/nicle-lin/leaf/timer"
 	"time"
 )
 

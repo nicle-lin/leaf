@@ -1,7 +1,7 @@
 package log_test
 
 import (
-	"github.com/salminwang/leaf/log"
+	"github.com/nicle-lin/leaf/log"
 	l "log"
 )
 

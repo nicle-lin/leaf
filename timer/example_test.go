@@ -2,7 +2,7 @@ package timer_test
 
 import (
 	"fmt"
-	"github.com/salminwang/leaf/timer"
+	"github.com/nicle-lin/leaf/timer"
 	"time"
 )
 

@@ -1,9 +1,9 @@
 package gate
 
 import (
-	"github.com/salminwang/leaf/chanrpc"
-	"github.com/salminwang/leaf/log"
-	"github.com/salminwang/leaf/network"
+	"github.com/nicle-lin/leaf/chanrpc"
+	"github.com/nicle-lin/leaf/log"
+	"github.com/nicle-lin/leaf/network"
 	"net"
 	"reflect"
 	"time"

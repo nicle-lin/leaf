@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/salminwang/leaf/cluster"
-	"github.com/salminwang/leaf/conf"
-	"github.com/salminwang/leaf/console"
-	"github.com/salminwang/leaf/log"
-	"github.com/salminwang/leaf/module"
+	"github.com/nicle-lin/leaf/cluster"
+	"github.com/nicle-lin/leaf/conf"
+	"github.com/nicle-lin/leaf/console"
+	"github.com/nicle-lin/leaf/log"
+	"github.com/nicle-lin/leaf/module"
 	"os"
 	"os/signal"
 )

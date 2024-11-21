@@ -2,8 +2,7 @@ package mongodb
 
 import (
 	"container/heap"
-	"github.com/salminwang/leaf/log"
-	"gopkg.in/mgo.v2"
+	"github.com/nicle-lin/leaf/log"
 	"gopkg.in/mgo.v2/bson"
 	"sync"
 	"time"

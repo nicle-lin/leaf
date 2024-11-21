@@ -2,8 +2,8 @@ package g
 
 import (
 	"container/list"
-	"github.com/salminwang/leaf/conf"
-	"github.com/salminwang/leaf/log"
+	"github.com/nicle-lin/leaf/conf"
+	"github.com/nicle-lin/leaf/log"
 	"runtime"
 	"sync"
 )
