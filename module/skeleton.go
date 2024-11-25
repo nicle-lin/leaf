@@ -3,6 +3,7 @@ package module
 import (
 	"github.com/nicle-lin/leaf/chanrpc"
 	"github.com/nicle-lin/leaf/console"
+	"github.com/nicle-lin/leaf/go"
 	"github.com/nicle-lin/leaf/timer"
 	"time"
 )
